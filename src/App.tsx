@@ -1,4 +1,4 @@
-import Header from './components/Header'
+ï»¿import Header from './components/Header'
 import Hero from './components/Hero'
 import About from './components/About'
 import Projects from './components/Projects'
@@ -6,7 +6,7 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 
 /**
- * Ó¦ÓÃ¸ù×é¼ş - ×éºÏËùÓĞÒ³ÃæÇøÓò
+ * åº”ç”¨æ ¹ç»„ä»¶ - ç»„åˆæ‰€æœ‰é¡µé¢åŒºåŸŸ
  */
 export default function App() {
   return (
